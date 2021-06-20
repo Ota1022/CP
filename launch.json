@@ -18,3 +18,5 @@
             "program": "${file}",
             "console": "externalTerminal"
         }
+    ]
+}
