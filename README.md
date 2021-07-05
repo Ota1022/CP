@@ -1,1 +1,3 @@
 # CP
+
+Mainly solving Atcoder
